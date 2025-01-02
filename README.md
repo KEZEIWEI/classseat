@@ -1,7 +1,8 @@
 # classseat
 網頁即時性的
-這是網站的連結，歡迎點進去操作看看
-http://seat-booking.wuaze.com/
+
+#這是網站的連結，歡迎點進去操作看看
+#http://seat-booking.wuaze.com/
 
 1.點擊一個座位會跳出一個輸入視窗
 
